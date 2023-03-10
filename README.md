@@ -1,6 +1,6 @@
 <h1 align="center">Hey , I'm Gaurav</h1>
 <h2 align="center">Delighted to have you here!</h2>
-<img align="right" alt="software development" width="500" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
+<img align="centre" alt="software development" width="300" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 <h2 align="center">"As an engineer, you learn more from your failures than your successes." - Henry Petroski </h2>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
