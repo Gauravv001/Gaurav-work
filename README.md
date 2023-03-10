@@ -1,6 +1,7 @@
 <h1 align="center">Hey , I'm Gaurav</h1>
 <h2 align="center">Delighted to have you here!</h2>
-![image](https://user-images.githubusercontent.com/106157156/224430719-60a10e6f-f787-4b53-b0aa-89f00bba2f64.png)
+<img align="centre" alt="software development" width="400" src="https://www.freepik.com/premium-vector/illustration-concept-developing-mobile-internet-applications_15679283.htm#query=software%20development%20banner&position=5&from_view=keyword&track=ais">
+
 <h2 align="center">"As an engineer, you learn more from your failures than your successes." - Henry Petroski </h2>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
